@@ -8,4 +8,4 @@
   3. Mateusz Wyborski
   4. Przemysław Wysocki
   5. Dawid Makówka
-
+  6. Aleksandra Jankiewicz
